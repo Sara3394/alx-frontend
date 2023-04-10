@@ -11,13 +11,13 @@ a {
 }
 
 .visually-hidden {
-  display: none;
+   display: none;
 }
 
 .card-category {
-  color: #d73953;
+   color: #D73953;
 }
 
 .section-tagline {
-  color: #d73953;
+   color: #D73953; 
 }
